@@ -28,11 +28,9 @@
   </picture>
 </div>
 
-<table>
+<table width="100%">
 
 ### 🤺 About Me
-
-<img align="right" width="88" src="https://qiniu.wei-jia.top/GopherBlog/20240108183720__images.png" />
 
 <p>&emsp;&emsp;嗨，你好，我是 Pony Wei。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、主机游戏。</p>
