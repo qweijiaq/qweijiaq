@@ -20,12 +20,6 @@
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=qweijiaq&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
-  <!-- Snake Code Contribution Map 贪吃蛇代码贡献图 -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="./profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
 </div>
 </div>
 
