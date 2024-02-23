@@ -19,3 +19,7 @@
 ![GitHub统计](https://stats.justsong.cn/api/github?username=qweijiaq&theme=dark&lang=zh-CN)
 
 ![CSDN统计](https://stats.justsong.cn/api/csdn?id=weixin_44141520)
+
+### 访问次数
+
+![Visitor Count](https://profile-counter.glitch.me/{qweijiaq}/count.svg)
