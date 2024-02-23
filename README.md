@@ -29,7 +29,9 @@
 </div>
 </div>
 
-<table>
+<div>
+
+<hr>
 
 ### 🤺 About Me
 
@@ -45,13 +47,9 @@
 <p>&emsp;&emsp;&emsp;&emsp;6. <strong>Rust</strong>: 毕竟螃蟹是横着走的</p>
 <p>&emsp;&emsp;&emsp;&emsp;7. <strong>AI</strong>: 大佬们吃香喝辣，我就看看</p>
 
-</td></tr>
-
-<tr><td>
+<hr>
 
 ### 📃 Recent Blog
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 
@@ -60,13 +58,9 @@
 
 <!-- END_SECTION:blog -->
 
-</td></tr>
-
-<tr><td>
+<hr>
 
 ### 🤾‍♂️ Funny Soul
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
 
 <!-- START_SECTION:weread -->
 
@@ -77,9 +71,7 @@
 - <a href='https://weread.qq.com/web/bookDetail/c5c32170813ab7177g0181ae' target='_blank'>Vue.js 设计与实现</a> 🌟🌟🌟🌟🌟 力荐- 2023-02-07
     <!-- END_SECTION:weread -->
 
-</td></tr>
-
-<tr><td>
+<hr>
 
 ### 📊 WakaTime
 
@@ -95,9 +87,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
 </picture>
 
-</td></tr>
-
-</table>
+<hr>
 
 <div align="center">
 <!-- ########################################## 分割 ########################################## -->
@@ -177,6 +167,8 @@
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+
+<hr>
 
 <div align="center" >
 
