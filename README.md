@@ -29,7 +29,7 @@
 
 ### 🤺 About Me
 
-<p>&emsp;&emsp;嗨，你好，我是 Pony Wei。</p>
+<p>&emsp;&emsp;嗨，我是 Pony Wei。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、主机游戏。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，希望能成为一名优秀的全栈开发者。</p>
 <p>&emsp;&emsp;目前在以及未来想研究的领域：</p>
