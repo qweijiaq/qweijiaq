@@ -13,6 +13,18 @@
 
 **[folio](https://github.com/qweijiaq/folio)** — Go + Vue 3 自托管个人知识站。博客、文档库、评论、RSS/SEO 与自带 Key 的 AI 问答是一个整体，`docker compose up` 就能跑。
 
+## 截图
+
+| [folio](https://folio.weijia.asia) | [ThinRead](https://github.com/qweijiaq/ThinRead) |
+| --- | --- |
+| ![folio 首页](assets/shots/folio.jpg) | ![ThinRead 阅读器](assets/shots/thinread.jpg) |
+| **线上站点的首页**，Go 直接托管构建好的前端 | **阅读器**，章节读薄成草稿和核心卡片 |
+
+| [CloseRead](https://github.com/qweijiaq/CloseRead) | [RepoRadar](https://github.com/qweijiaq/RepoRadar) |
+| --- | --- |
+| ![CloseRead 精读界面](assets/shots/closeread.jpg) | ![RepoRadar 首页](assets/shots/reporadar.jpg) |
+| **精读界面**，逐段译文、笔记和折叠的词卡 | **首页**，从你正在维护的项目出发找下一块拼图 |
+
 ## 仓库
 
 | 项目 | 一句话 | 栈 |
@@ -43,6 +55,15 @@
 环境里带 `ELECTRON_RUN_AS_NODE=1` 时，`require('electron')` 返回的是二进制路径字符串，`app` 是 `undefined`，窗口起不来。`run-electron.mjs` 在启动前把它删掉——这类只在特定 shell 里复现的问题，比功能难写多了。
 
 </details>
+
+## 贡献
+
+<p align="center">
+  <img src="assets/contribution.svg" alt="过去一年的提交日历" width="100%">
+</p>
+
+这张图是快照，不是实时数据：`python3 tools/contribution.py` 会去 GitHub 取真实数据重画一遍。
+用自绘图而不是第三方统计卡，是因为那些公共实例会限流、会过期——之前主页上 69 张图里有 19 张是坏的。
 
 ## 关注
 
