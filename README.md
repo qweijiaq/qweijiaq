@@ -5,6 +5,8 @@
 在上海做前端。业余写的项目大多围绕两句话：**数据留在本机**，**结论要能被验证**。
 博客在 **[folio.weijia.asia](https://folio.weijia.asia)**，跑的是自己写的 [folio](https://github.com/qweijiaq/folio)。
 
+只想看一个仓库的话，看 [anatomy](https://github.com/qweijiaq/anatomy)：644 个测试跑在 26 个文件里，两条不变量，还有一份自己承认候选召回率只有 60% 的评测记录。
+
 ## 现在在做
 
 **[x-code](https://github.com/qweijiaq/x-code)** — 本地优先、模型无关的 AI 编程助手。桌面端与命令行共享同一份会话、记忆和技能，支持 Claude、GPT、Gemini、DeepSeek、Ollama 与任意 OpenAI 兼容模型，代码不出本机。
@@ -56,13 +58,20 @@
 
 </details>
 
+## 最近写的
+
+- [从一次问答到多轮工具调用：Agent 循环到底在循环什么](https://folio.weijia.asia/articles/12) — 2026-11-11
+- [从零部署知微](https://folio.weijia.asia/articles/3) — 2026-11-09
+
+更多在 [folio.weijia.asia](https://folio.weijia.asia)。
+
 ## 贡献
 
 <p align="center">
-  <img src="assets/contribution.svg" alt="过去一年的提交日历" width="100%">
+  <img src="assets/contribution.svg" alt="近 13 周提交日历" width="100%">
 </p>
 
-这张图是快照，不是实时数据：`python3 tools/contribution.py` 会去 GitHub 取真实数据重画一遍。
+近 13 周的快照，不是实时数据：`python3 tools/contribution.py` 会去 GitHub 取真实数据重画一遍。
 用自绘图而不是第三方统计卡，是因为那些公共实例会限流、会过期——之前主页上 69 张图里有 19 张是坏的。
 
 ## 关注
