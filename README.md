@@ -1,6 +1,8 @@
 # Pony Wei
 
-写桌面端和 AI 工具。做的项目大多围绕两个前提：**数据留在本机**，**结论要能被验证**。
+在上海做前端。业余写桌面端和本地优先的 AI 工具，共同的前提是两句话：**数据留在本机**，**结论要能被验证**。
+
+博客在 **[folio.weijia.asia](https://folio.weijia.asia)** —— 跑的是我自己写的 folio。
 
 ## 在做的事
 
@@ -8,7 +10,7 @@
 
 **[anatomy](https://github.com/qweijiaq/anatomy)** — 把一个仓库拆成带行号证据的设计笔记。模型写的每条主张先和磁盘上的字节比对，对不上的行号会被拒绝，验证不过的说法不会进入报告。
 
-**[folio](https://github.com/qweijiaq/folio)** — Go + Vue 3 自托管个人知识站。博客、文档库、评论、RSS/SEO 与自带 Key 的 AI 问答是一个整体，`docker compose up` 就能跑。
+**[folio](https://github.com/qweijiaq/folio)** — Go + Vue 3 自托管个人知识站。博客、文档库、评论、RSS/SEO 与自带 Key 的 AI 问答是一个整体，`docker compose up` 就能跑；上面那个博客就是它的线上实例。
 
 ## 仓库
 
@@ -24,11 +26,11 @@
 ## 关注
 
 - **桌面端**：Electron 里那些只有真机上才会出现的问题——权限、签名、更新、窗口生命周期。
-- **本地优先**：默认不上传。需要联网的地方应该说得清楚为什么需要。
+- **本地优先**：默认不上传。需要联网的地方，应该说清楚为什么需要。
 - **可验证的 AI 输出**：让模型的主张落到证据上，行号、原文、比对结果都要能被复查。
 
 ## 联系
 
-[CSDN 博客](https://blog.csdn.net/weixin_44141520/) · [邮箱](mailto:2112025700@qq.com)
+[博客](https://folio.weijia.asia) · [CSDN](https://blog.csdn.net/weixin_44141520/) · [邮箱](mailto:2112025700@qq.com)
 
 聊桌面端、本地优先工具，或者怎么证明模型没胡说，都欢迎开 issue。
